@@ -98,3 +98,14 @@ Evaluation metrics used:
 - R² Score
 - Mean Absolute Error
 - Root Mean Squared Error
+
+---
+
+## 🔮 Future Improvements
+
+- Deploy model as web app
+- Add API endpoint
+- Improve feature engineering
+- Try advanced models (XGBoost, Neural Networks)
+
+---
