@@ -89,3 +89,12 @@ jupyter notebook
 
 ---
 
+## 🎯 Model Performance
+
+The trained regression model predicts diamond prices with strong accuracy after preprocessing and tuning.
+
+Evaluation metrics used:
+
+- R² Score
+- Mean Absolute Error
+- Root Mean Squared Error
