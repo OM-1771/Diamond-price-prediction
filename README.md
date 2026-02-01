@@ -60,3 +60,21 @@ pip install -r requirements.txt
 ```
 
 ---
+
+
+## 🚀 Usage
+
+Run the training pipeline or notebook to train the model:
+
+```
+python train.py
+```
+
+or open Jupyter Notebook:
+
+```
+jupyter notebook
+```
+
+---
+
