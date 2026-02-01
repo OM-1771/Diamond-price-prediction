@@ -25,3 +25,38 @@ DiamondPricePrediction/
 ```
 
 ---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```
+git clone https://github.com/OM-1771/Diamond-price-prediction.git
+```
+
+Go to project folder:
+
+```
+cd Diamond-price-prediction
+```
+
+Create virtual environment:
+
+```
+python -m venv venv
+```
+
+Activate environment:
+
+Windows:
+```
+venv\Scripts\activate
+```
+
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+---
