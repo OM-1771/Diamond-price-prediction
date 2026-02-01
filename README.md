@@ -11,3 +11,17 @@ It demonstrates data preprocessing, feature engineering, model training, and eva
 The goal is to build an accurate predictive model that can estimate diamond prices from input features.
 
 ---
+## 📂 Project Structure
+
+```
+DiamondPricePrediction/
+│
+├── data/
+├── notebooks/
+├── src/
+├── models/
+├── README.md
+├── requirements.txt
+```
+
+---
