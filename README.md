@@ -109,3 +109,11 @@ Evaluation metrics used:
 - Try advanced models (XGBoost, Neural Networks)
 
 ---
+
+
+## 👤 Author
+
+Om Chaudhary
+
+---
+
