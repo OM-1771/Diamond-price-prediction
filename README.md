@@ -108,14 +108,7 @@ Evaluation metrics used:
 - Improve feature engineering
 - Try advanced models (XGBoost, Neural Networks)
 
----
-
-
-## 👤 Author
-
-Om Chaudhary
-
----
+--
 
 ## 👤 Author
 
