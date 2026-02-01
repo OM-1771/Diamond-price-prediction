@@ -77,4 +77,15 @@ jupyter notebook
 ```
 
 ---
+## 📊 Features Used
+
+- Carat
+- Cut
+- Color
+- Clarity
+- Depth
+- Table
+- Dimensions (x, y, z)
+
+---
 
