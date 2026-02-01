@@ -117,3 +117,14 @@ Om Chaudhary
 
 ---
 
+## 👤 Author
+
+Om Chaudhary
+
+---
+
+## ⭐ Contribute
+
+Pull requests are welcome.  
+If you like the project, give it a star ⭐
+
